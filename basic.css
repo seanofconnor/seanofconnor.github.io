@@ -1,0 +1,55 @@
+body{
+	font-family: avenir next;
+	background-color: #fafafa;
+	color: #3f3f4f;
+	
+}
+h1{
+	font-size: 28px;
+	color: #888;
+}
+
+
+
+.dim{
+	color: #bbb;
+}
+
+
+
+
+h1, h2{
+	font-size: 26px;
+	color: #333;
+	text-align: center;
+}
+h3{
+	font-size: 26px;
+	padding-bottom: none;
+	margin-bottom: -15px;
+}
+p{
+	padding-top: -10px;;
+	margin-top: none;
+}
+#info{text-align: left;
+}
+
+ul, li, ul ul, ul ul li, li 
+{
+	list-style-type: none;
+	padding: 0;
+}
+hr{
+	height: 1px;
+	border: dashed;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	color: #eee;
+}
+
+footer {
+		
+		margin-bottom: 20px;
+}
