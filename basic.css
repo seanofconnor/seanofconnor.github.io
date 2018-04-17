@@ -2,6 +2,8 @@ body{
 	font-family: avenir next;
 	background-color: #fafafa;
 	color: #3f3f4f;
+	margin: auto;
+	max-width: 500px;
 	
 }
 h1{
