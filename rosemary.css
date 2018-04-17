@@ -1,0 +1,114 @@
+body{
+	font-family: avenir next;
+	background-color: #fafafa;
+	color: #3f3f4f;
+	margin:auto;
+	max-width: 550px;
+	
+}
+h1{
+	font-size: 28px;
+	color: #888;
+}
+
+
+
+/** Time Table**/
+table{
+	font-size: 18px;
+	font-weight: bold;
+	color: #f1f5f3;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+td{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+table tr:first-child td:first-child {
+    border-top-left-radius: 8px;
+}
+table tr:first-child td:last-child {
+    border-top-right-radius: 8px;
+}
+
+table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+}
+
+table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+}
+.monday {
+	background-color: #888;
+}
+.spot {
+	background-color: #eb5c45;
+}
+
+.closed {
+	background-color: #aaa;
+}
+
+.weekday {
+	background-color: #f4b83c;
+}
+
+.weekend {
+	background-color: #59cbed;
+}
+/** End Time Table**/
+
+
+.dim{
+	color: #bbb;
+}
+
+
+
+
+h1, h2{
+	font-size: 26px;
+	color: #333;
+	text-align: center;
+}
+h3{
+	font-size: 26px;
+	padding-bottom: none;
+	margin-bottom: -15px;
+}
+p{
+	padding-top: -10px;;
+	margin-top: none;
+}
+#info{text-align: left;
+}
+ul, li, ul ul, ul ul li, li 
+{
+	list-style-type: none;
+	padding: 0;
+}
+img		{
+		width: 470px;
+		height: 200px;
+		border: 10px solid #fdfdfd;
+		margin-left: 20px;
+		box-shadow: 0px 1px 2px #aaa;
+}		
+
+hr{
+	height: 1px;
+	border: dashed;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	color: #eee;
+}
+
+footer {
+		
+		margin-bottom: 20px;
+}
