@@ -1,15 +1,18 @@
 body{
 	font-family: avenir next;
-	background-color: #fafafa;
+	background-color: #ffd37f;
 	color: #3f3f4f;
 	margin: auto;
 	max-width: 600px;
+	padding: none;
 	
 }
 
 img{
 	width: 100%;
 	max-width: 600px;
+	padding: none;
+	margin: none;
 }
 
 h1{
@@ -55,7 +58,12 @@ hr{
 header{
 	background-color:#f0393a;
 	color: #fff7ce;
+	padding: none;
 }
+
+main{
+	background-color: #fafafa;
+	color: #3f3f4f; }
 
 footer{
 	margin-bottom: 20px;
@@ -84,7 +92,7 @@ footer{
 	padding-bottom: 5px;
 	
 }
-#rust{background-color: #e0393a;
+#rust{background-color: #f0393a;
 	text-decoration: none;
 	font-size: 26px;
 	color: #fff7ce;
