@@ -3,27 +3,36 @@ body{
 	background-color: #fafafa;
 	color: #3f3f4f;
 	margin: auto;
-	max-width: 500px;
+	max-width: 600px;
 	
 }
-h1{
-	font-size: 28px;
-	color: #888;
-}
+
+
 
 
 
 .dim{
 	color: #bbb;
 }
+img{ width: 100%;
+	max-width: 600px;}
 
 
-
-
+.local {background-color: #eb4639;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px;
+}
 h1, h2{
-	font-size: 26px;
+	font-size: 30px;
 	color: #333;
 	text-align: center;
+}
+
+h1{background-color: #fb4639;
+	color: #fff;
+	font-size: 46px;
 }
 h3{
 	font-size: 26px;
@@ -49,6 +58,12 @@ hr{
 	border-left: none;
 	border-right: none;
 	color: #eee;
+}
+
+header{background-color: #fb4639;
+	color: #fff;
+	margin: 5px;
+	padding: 15px;
 }
 
 footer {
