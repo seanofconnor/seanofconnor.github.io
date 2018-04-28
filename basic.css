@@ -13,8 +13,6 @@ img{
 }
 
 h1{
-	background-color: #fb4639;
-	color: #fff;
 	font-size: 36px;
 	text-align: center;
 }
@@ -51,9 +49,9 @@ hr{
 }
 
 header{
-	background-color: #fb4639;
-	color: #fff;
 	padding: 15px;
+	background-color:#f0393a;
+	color: #fff7ce;
 }
 
 footer{
@@ -66,8 +64,10 @@ footer{
 }
 
 .local{
-	background-color: #eb4639;
-	color: #fff;
+	text-decoration: none;
+	font-size: 26px;
+	background-color: #fb4639;
+	color: #fff7ce;
 	font-weight: bold;
 	text-align: center;
 	padding: 5px;
