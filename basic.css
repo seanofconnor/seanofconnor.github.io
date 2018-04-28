@@ -59,6 +59,9 @@ header{
 
 footer{
 	margin-bottom: 20px;
+	background-color: #2965cb;
+	color: #fff7ce;
+	padding-bottom: 10px;
 }
 
 /** classes and ids **/
@@ -78,7 +81,6 @@ footer{
 	font-weight: bold;
 	text-align: center;
 	padding-top: 5px;
-	
 	padding-bottom: 5px;
 	
 }
