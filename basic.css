@@ -64,30 +64,26 @@ footer{
 }
 
 
-
-.rt{text-decoration: none;
-	font-size: 26px;
-	color: #fff7ce;
-	font-weight: bold;
-	text-align: center;
-	padding: none;}
-
 #info{text-align: left;
 }
-#rt{background-color: #ff7d93;
+
+#rt{background-color: #ef6d83;
 	text-decoration: none;
 	font-size: 26px;
 	color: #fff7ce;
 	font-weight: bold;
 	text-align: center;
-	padding: 5px;
+	padding-top: 5px;
+	
+	padding-bottom: 5px;
 	
 }
-#rust{background-color: #d0292a;
+#rust{background-color: #e0393a;
 	text-decoration: none;
 	font-size: 26px;
 	color: #fff7ce;
 	font-weight: bold;
 	text-align: center;
-	padding: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	}
