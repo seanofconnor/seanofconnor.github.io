@@ -7,43 +7,32 @@ body{
 	
 }
 
-
-
-
-
-.dim{
-	color: #bbb;
+img{
+	width: 100%;
+	max-width: 600px;
 }
-img{ width: 100%;
-	max-width: 600px;}
 
-
-.local {background-color: #eb4639;
+h1{
+	background-color: #fb4639;
 	color: #fff;
-	font-weight: bold;
+	font-size: 36px;
 	text-align: center;
-	padding: 5px;
 }
-h1, h2{
+
+h2{
 	font-size: 30px;
 	color: #333;
 	text-align: center;
 }
 
-h1{background-color: #fb4639;
-	color: #fff;
-	font-size: 46px;
-}
 h3{
 	font-size: 26px;
 	padding-bottom: none;
 	margin-bottom: -15px;
 }
+
 p{
-	padding-top: -10px;;
 	margin-top: none;
-}
-#info{text-align: left;
 }
 
 ul, li, ul ul, ul ul li, li 
@@ -51,6 +40,7 @@ ul, li, ul ul, ul ul li, li
 	list-style-type: none;
 	padding: 0;
 }
+
 hr{
 	height: 1px;
 	border: dashed;
@@ -60,13 +50,28 @@ hr{
 	color: #eee;
 }
 
-header{background-color: #fb4639;
+header{
+	background-color: #fb4639;
 	color: #fff;
-	margin: 5px;
 	padding: 15px;
 }
 
-footer {
-		
-		margin-bottom: 20px;
+footer{
+	margin-bottom: 20px;
+}
+
+/** classes and ids **/
+.dim{
+	color: #bbb;
+}
+
+.local{
+	background-color: #eb4639;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px;
+}
+
+#info{text-align: left;
 }
